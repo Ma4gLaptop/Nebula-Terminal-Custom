@@ -62,7 +62,7 @@ Key libraries: colorama, requests, folium, pyfiglet, psutil, keyboard, socket, t
 Cross-platform: Windows & Linux
 
 🧰 Installation & Run
-git clone https://github.com/<your-username>/Nebula-Terminal-Custom.git
+git clone https://github.com/Ma4gLaptop/Nebula-Terminal-Custom.git
 cd Nebula-Terminal-Custom
 python(3) launch.py (if you want to run with venv)
 OR
