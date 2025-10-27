@@ -34,18 +34,30 @@ And more… all in a safe simulation environment
 
 Everything is designed for learning and experimentation, no real hacking required.
 
+
+
 💡 Example Usage
+
 scan -f 192.168.0.1
+
 dirb -m https://example.com
+
 iptracker -m 8.8.8.8
+
 knano notes.txt
+
 calc
+
 save
+
 load
+
 history
 
 
 Explore, experiment, and learn – all within the Nebula Terminal.
+
+
 
 🧠 Philosophy
 
@@ -60,6 +72,8 @@ Language: Python 3
 Key libraries: colorama, requests, folium, pyfiglet, psutil, keyboard, socket, tkinter
 
 Cross-platform: Windows & Linux
+
+
 
 🧰 Installation & Run
 
