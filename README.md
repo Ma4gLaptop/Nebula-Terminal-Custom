@@ -3,7 +3,7 @@
 Nebula Terminal Custom is an open-source Python project make by the Nebula Cyber security Team 
 
 <p align="center">
-  <img src="Nebula_Logo.png" alt="Logo" width="150"/>
+  <img src="Nebula_Logo.png" alt="Logo" width="200"/>
 </p>
 
 
